@@ -1,5 +1,7 @@
 # spa
 
+This is a spa messenger built with vue ,tailwind .
+
 ## Project setup
 ```
 npm install
